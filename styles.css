@@ -1,1 +1,15 @@
 /* your code */
+thead{
+	background-color:blue;
+	color:white;
+	margin-top:0px;
+	
+}
+table{
+	border: 1px solid black;
+	border-radius:4%;
+	overflow:hidden;
+	width:100vw;
+	
+}
+
